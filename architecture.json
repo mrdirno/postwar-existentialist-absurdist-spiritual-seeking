@@ -1,0 +1,77 @@
+{
+  "book_id": "postwar-existentialist-absurdist-spiritual-seeking",
+  "title": "The Vindictive, Familiar Rain",
+  "tagline": "In a bruised postwar world, a man who finds bodies is hired to find a text, sending him on a search for meaning through the absurd and the sacred.",
+  "target_words": 75202,
+  "actual_words": 75202,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Search for Meaning",
+    "The Absurdity of Existence",
+    "Memory and Trauma",
+    "Sacred and Profane Texts"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Particular Spite of Rain",
+      "words": 6266
+    },
+    {
+      "ch": 2,
+      "title": "A Hard Rectangle Against the Thigh",
+      "words": 6266
+    },
+    {
+      "ch": 3,
+      "title": "The Ghost on the Page",
+      "words": 6266
+    },
+    {
+      "ch": 4,
+      "title": "Shapes of Intent in Violation",
+      "words": 6266
+    },
+    {
+      "ch": 5,
+      "title": "The Stones Stopped Screaming",
+      "words": 6266
+    },
+    {
+      "ch": 6,
+      "title": "A Sound You Become",
+      "words": 6266
+    },
+    {
+      "ch": 7,
+      "title": "A Reply in the Marrow",
+      "words": 6266
+    },
+    {
+      "ch": 8,
+      "title": "The Road with a Taste of Iron",
+      "words": 6266
+    },
+    {
+      "ch": 9,
+      "title": "The Sea That Was a Skin",
+      "words": 6266
+    },
+    {
+      "ch": 10,
+      "title": "The Vindictive, Familiar Rain",
+      "words": 6266
+    },
+    {
+      "ch": 11,
+      "title": "A Surveyor of New Territory",
+      "words": 6266
+    },
+    {
+      "ch": 12,
+      "title": "A Benediction of Gentle Rain",
+      "words": 6266
+    }
+  ]
+}
